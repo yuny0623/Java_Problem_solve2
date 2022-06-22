@@ -1,6 +1,5 @@
 package Leetcode;
-
-import java.util.ArrayList;
+import java.util.*;
 
 public class leetcode_1290 {
     // 0511 ~ 0519
