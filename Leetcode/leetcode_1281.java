@@ -1,3 +1,4 @@
+package Leetcode;
 
 /**
 Runtime: 1 ms, faster than 22.67% of Java online submissions for Subtract the Product and Sum of Digits of an Integer.

@@ -11,6 +11,9 @@ Memory Usage: 58.4 MB, less than 96.28% of Java online submissions for Rank Tran
 지금 보면 HashMap을 쓰고 있고 거기서 putIfAbsent 를 쓰고 있다. 
 즉 key가 있으면 그 값을 반영하지 않는다. 근데 key가 없으면? val과 함께 넣어준다. 
 put if absent 즉 없으면 넣어준다는 소리다. 
+
+arr.clone() 이란? 
+https://coding-factory.tistory.com/548
  */
 public class leetcode_1331 {
     public int[] arrayRankTransform(int[] arr) {
